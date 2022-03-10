@@ -1,3 +1,4 @@
+#Autor: José María Caballero Muñoz Fecha:08-03-2022#
 #Este es el código de Chema de la función de añadir modificar# 
 def añadirModificarJcaballero(nombre, agenda):
     if nombre in agenda:
