@@ -1,5 +1,5 @@
 #Autor: José María Caballero Muñoz   Fecha de creación: 08-03-2022#
-#Este es el código de Chema de la función de añadir modificar# 
+#Este es el código de la función de añadir modificar que sirve para añadir contactos y para modificarlos# 
 def añadirModificarJcaballero(nombre, agenda):
     if nombre in agenda:
         print("%s es un contacto que ya existe, su número de teléfono es %s" % (nombre,agenda[nombre]))
